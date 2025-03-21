@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 this is abhijith
+=======
+this is scope
+>>>>>>> 021ae33f0720141599200da83804048b0a7835a7
